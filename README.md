@@ -1,11 +1,21 @@
 # calcolatrici_python
 
-Esperimenti di creazione usando AI via `tgpt -i --provider=sky`  di calcolatrici in python con:
+Esperimenti di creazione di calcolatrici in python con usando AI via `tgpt -i --provider=sky` :
 
-tkinter
+1. tkinter
 
-ttkthemes
+2. ttkthemes
 
-pygame
+3. pygame
 
-pygtk
+4. pygtk
+
+Perché funzionino è necessario povvedere le corrette dipendenze:
+
+1. tkinter
+
+2. thinter e ttkthemes
+
+3. pygame e pyperclip
+
+4. pygtk3 (pithon3-gi)

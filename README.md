@@ -14,7 +14,7 @@ Perché funzionino è necessario povvedere le corrette dipendenze:
 
 1. tkinter
 
-2. thinter e ttkthemes
+2. tkinter e ttkthemes
 
 3. pygame e pyperclip
 

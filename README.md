@@ -1,6 +1,6 @@
 # calcolatrici_python
 
-Esperimenti di crazione usando AI di calcolatrici in python con:
+Esperimenti di creazione usando AI via tgpt -i --provider=sky  di calcolatrici in python con:
 
 tkinter
 

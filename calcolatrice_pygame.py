@@ -8,7 +8,7 @@ pygame.display.set_caption("Calcolatrice Pygame")
 # Dimensioni finestra
 WIDTH, HEIGHT = 400, 550
 SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
-
+#nonono
 # Colori
 WHITE = (255, 255, 255)
 LIGHT_GRAY = (200, 200, 200)
